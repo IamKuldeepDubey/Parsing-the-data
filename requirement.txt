@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic>=2
+pillow
+anthropic>=0.50.0
